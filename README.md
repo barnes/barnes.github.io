@@ -1,4 +1,11 @@
 # CS50 Web - Project 0
+## Objective:
+Create a basic HTML & CSS website to complete requirements for Project0 of Harvard's CS50 Web course. Along the way, there are a few tasks I want to personally reach.
+* Use of branching and merging for each new page in the site. Probably overkill, but for practice sake.
+* LOTS of use with Emmet, specificially with Bootstrap to rapidly spin up clean layouts.
+* Experiment with new HTML5 features, SCSS and ensure responsive ready page.
+* Perhaps experiment with Zwift API
+* Perhaps play around with designing a raw CSS or SVG logo, stylized initial sort of thing.
 ## ToC - Projec Files
 ### index.html
 Main homepage. Uses Bootstrap 4 navbar component that will serve as the header on all pages. Simple plain text body.
