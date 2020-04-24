@@ -15,3 +15,11 @@ Break down of personal gardening projects. Current status of garden beds. Tables
 High level overview of Zwift activity and goals. Perhaps simple usage of API to retrieve and display the miles ridden. Discussion on data collection and how I currently use it. 
 ### daisy.html
 Its just my dog Daisy. Using multiple flexbox photo examples to best display lots of pictures of Daisy. 
+
+## Checklist
+* ~~4 pages, naviation between them.~~
+* ~~Bootstrap 4, multiple components.~~ 
+* ~~List~~, table, ~~images~~
+* ~~Stylesheet with responsive @media query.~~
+* SCSS, variable, nesting, inheritence
+* ~~Detailed README.md~~
