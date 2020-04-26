@@ -46,3 +46,7 @@ header .overlay {
     display: none;
   }
 }
+
+.bg-dark {
+  background-color: #85a392;
+}
