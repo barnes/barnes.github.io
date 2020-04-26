@@ -7,4 +7,12 @@ h1, h3 {
   color: #f5b971;
 }
 
+.navbar {
+  background-color: #85a392;
+}
+.navbar li, .navbar a {
+  font-weight: 500;
+  color: #f5b971;
+}
+
 /*# sourceMappingURL=scss.css.map */
