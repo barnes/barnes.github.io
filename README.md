@@ -10,9 +10,9 @@ Create a basic HTML & CSS website to complete requirements for Project0 of Harva
 ### index.html
 Main homepage. Uses Bootstrap 4 navbar component that will serve as the header on all pages. Simple plain text body.
 ### garden.html
-Break down of personal gardening projects. Current status of garden beds. Tables used to display layout of current raised beds. Linking / publishing of Airtable data collection system. Discussion on how best to collect data in the future. 
+Break down of personal gardening projects. Current status of garden beds. Tables used to display layout of current raised beds. 
 ### zwift.html
-High level overview of Zwift activity and goals. Perhaps simple usage of API to retrieve and display the miles ridden. Discussion on data collection and how I currently use it. 
+High level overview of Zwift activity and goals. 
 ### daisy.html
 Its just my dog Daisy. Using multiple flexbox photo examples to best display lots of pictures of Daisy. 
 
@@ -21,5 +21,14 @@ Its just my dog Daisy. Using multiple flexbox photo examples to best display lot
 * ~~Bootstrap 4, multiple components.~~ 
 * ~~List~~, table, ~~images~~
 * ~~Stylesheet with responsive @media query.~~
-* SCSS, variable, nesting, inheritence
+* ~~SCSS, variable, nesting, inheritence~~
 * ~~Detailed README.md~~
+
+## Description of files
+* index.html - Main page, mostly simple, but the bootstrap framework is what I carried through the rest of the pages. Simple header using HTML5 video elements, utilizing lots of Bootstrap functionality for navigation, etc.
+* garden.html - Talking through my adventures in gardening. Using HTML tables to map out my raised bed garden. 
+* daisy.html - A page for the dog of course. Using Bootstrap image classes to quickly make thumbnails. 
+* about.html - Little bio page, simple.
+* zwift.html - Discussion on virtual bike racing, using Bootstrap 'jumbotron' for nice big pretty links to social profiles
+* style.css - General stylesheet. Some custom colors from Bootstraps defaults, header video overlay to darken the video, some responsive @media tags to disable videos on smaller devices. 
+* scss.css / style.scss / scss.css.map - Sass CSS for some additional custom colors.
