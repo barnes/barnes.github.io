@@ -1,0 +1,22 @@
+$primary-color: #85a392;
+$secondary-color: #f5b971;
+$bold: 500;
+$font-stack: "Lucida Console", Monaco, monospace;
+
+
+h1, h3{
+    color: $primary-color;
+}
+
+.lead{
+    font-weight: $bold;
+    color: $secondary-color;
+}
+
+.navbar{
+    background-color:$primary-color;
+    li, a{
+        font-weight: $bold;
+        color:$secondary-color;
+    }
+}
